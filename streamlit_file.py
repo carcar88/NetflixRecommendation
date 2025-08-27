@@ -33,13 +33,15 @@ def content_recommender_streamlit(name):
     netflix_indices = [i[0] for i in sim_scores]
     displayed_column = ['title', 'listed_in', 'description', 'rating']
     recommendations = df.iloc[netflix_indices][displayed_column]
+    recommendations = recommendations.reset_index()
+    recommendations.index += 1
 
     st.subheader(f"🎥 Recommended Titles Similar to **{name}**")
     for idx, row in recommendations.iterrows():
-        st.subheader(idx+1, ". ", row['title'])
-        st.text("Genre: ", row['listed_in'])
-        st.text("Rating: ", row['rating'])
-        st.text("Description: ", row['description'])
+        st.subheader(f"{idx}. {row['title']}")
+        st.text(f"Genre: {row['listed_in']}")
+        st.text(f"Rating: {row['rating']}")
+        st.text(f"Description: {row['description']}")
 
 def main():
     st.title('Netflix Recommendation')
@@ -57,3 +59,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
