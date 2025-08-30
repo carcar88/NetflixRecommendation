@@ -7,5 +7,6 @@ This repository contains a project about a content-based recommender system whic
 
 Streamlit app:
 https://netflixrecommendation-ycdzqdmhhdj8td9qdae2f7.streamlit.app/#genre-horror-movies-rating-r-description-nick-o-bannon-thinks-he-s-cheated-death-when-he-keeps-a-grisly-premonition-from-becoming-reality-but-he-soon-realizes-that-fate-has-other-plans 
+
 Source database:
 https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows 
