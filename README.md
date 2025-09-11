@@ -9,7 +9,7 @@ This repository contains a project about a content-based recommender system whic
 Streamlit app example:
 <img width="2559" height="933" alt="image" src="https://github.com/user-attachments/assets/5a58793f-13dd-43fc-854f-8267b4629bce" />
 <img width="2539" height="1096" alt="image" src="https://github.com/user-attachments/assets/8a0103cc-d988-4754-9d38-0e0109237d0a" />
-<img width="2547" height="878" alt="image" src="https://github.com/user-attachments/assets/3ddd283b-3816-41a2-8d00-8539646bb35b" />
+<img width="2547" height="843" alt="Screenshot 2025-09-11 104953" src="https://github.com/user-attachments/assets/270b9493-2ee3-486a-87ab-7961df2cbd24" />
 <img width="2553" height="850" alt="image" src="https://github.com/user-attachments/assets/23c0d794-b148-4151-8106-7fcb1f14fbe5" />
 
 
