@@ -5,6 +5,14 @@ _Repository_ ini memuat projek _content-based recommender system_ yang menerima 
 
 This repository contains a project about a content-based recommender system which receives an input of the title of a movie/tv show in the database and gives an output of the top 5 recommendations of similar movies/tv shows. After the model was built, I deployed the model to Streamlit.
 
+
+Streamlit app example:
+<img width="2559" height="933" alt="image" src="https://github.com/user-attachments/assets/5a58793f-13dd-43fc-854f-8267b4629bce" />
+<img width="2539" height="1096" alt="image" src="https://github.com/user-attachments/assets/8a0103cc-d988-4754-9d38-0e0109237d0a" />
+<img width="2547" height="878" alt="image" src="https://github.com/user-attachments/assets/3ddd283b-3816-41a2-8d00-8539646bb35b" />
+<img width="2553" height="850" alt="image" src="https://github.com/user-attachments/assets/23c0d794-b148-4151-8106-7fcb1f14fbe5" />
+
+
 Streamlit app:
 https://netflixrecommendation-ycdzqdmhhdj8td9qdae2f7.streamlit.app/#genre-horror-movies-rating-r-description-nick-o-bannon-thinks-he-s-cheated-death-when-he-keeps-a-grisly-premonition-from-becoming-reality-but-he-soon-realizes-that-fate-has-other-plans 
 
