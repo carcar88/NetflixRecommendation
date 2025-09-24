@@ -5,8 +5,9 @@ Membangun model recommendation yang akan memberikan rekomendasi movie/tv show ya
 Projek ini menggunakan content-based recommender system yang memberikan rekomendasi berdasarkan kemiripan movie/tv show yang dimasukkan.   
 
 **Sumber Dataset:**   
-https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows  
-Fitur-fitur Dataset:  
+https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows   
+
+**Fitur-fitur Dataset:**  
 | Column | Deskripsi |
 | --- | --- |
 | show_id | Unique identifier untuk setiap show (s1, s2) |
